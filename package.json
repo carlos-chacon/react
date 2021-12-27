@@ -41,6 +41,7 @@
     "mini-css-extract-plugin": "^2.4.5",
     "sass": "^1.44.0",
     "sass-loader": "^12.4.0",
-    "style-loader": "^3.3.1"
+    "style-loader": "^3.3.1",
+    "tsconfig-paths": "^3.12.0"
   }
 }

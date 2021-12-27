@@ -1,0 +1,11 @@
+{
+    "alias-resolver.type": "webpack",
+    "jumpToAliasFile.alias": {
+        "@components": "c:\\Users\\Carlos A. Chacon\\proyectos\\react\\src\\components",
+        "@containers": "c:\\Users\\Carlos A. Chacon\\proyectos\\react\\src\\containers",
+        "@pages": "c:\\Users\\Carlos A. Chacon\\proyectos\\react\\src\\pages",
+        "@styles": "c:\\Users\\Carlos A. Chacon\\proyectos\\react\\src\\styles",
+        "@icons": "c:\\Users\\Carlos A. Chacon\\proyectos\\react\\src\\assets\\icons",
+        "@logos": "c:\\Users\\Carlos A. Chacon\\proyectos\\react\\src\\assets\\logos"
+    }
+}
