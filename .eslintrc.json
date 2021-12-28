@@ -1,0 +1,22 @@
+{
+    "extends": [
+        "plugin:import/recommended"
+    ],
+    "settings": {
+        "import/resolver": {
+            "alias": {
+                "map": [
+                    ["@components", "./src/components/"],
+                    ["@containers", "./src/containers/"],
+                    ["@pages", "./src/pages/"],
+                    ["@styles", "./src/styles/"],
+                    ["@icons", "./src/assets/icons/"],
+                    ["@logos", "./src/assets/logos/"]
+                ]
+            },
+            "extensions": [
+                ".js", ".jsx"
+            ]
+        }
+    }
+}
